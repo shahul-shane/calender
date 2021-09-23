@@ -575,7 +575,7 @@ html, body {
 @media(max-width:700px){
     .calender {
         height: min-content;
-        width: min-content;
+        width: 500px;
         background-color: var(--bg-main);
         border-radius: 30px;
         padding: 20px;
